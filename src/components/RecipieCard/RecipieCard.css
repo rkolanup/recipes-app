@@ -1,0 +1,70 @@
+.recipe-rows {
+  justify-content: center;
+}
+.recipe-card {
+  margin: 12px;
+  border: 2px #6c757d solid;
+  max-width: 300px;
+}
+.recipe-button {
+  width: 100%;
+  border-radius: 0;
+}
+.recipe-footer {
+  padding: 0;
+}
+.recipe-list-style {
+  list-style-type: none;
+}
+/*.cardWrapper {
+  display: inline-block;
+  list-style: none;
+  border: 1px solid #fff;
+  padding: 20px 0;
+}
+.desWrapper {
+  margin: 0 50px;
+  list-style: none;
+}
+.desText {
+  margin: 5px 0;
+}
+.desTextLable {
+  font-size: 30px;
+}
+.recImage {
+  border-radius: 0;
+  margin: 10px;
+  border: 1px solid #fff;
+}
+.ingTable {
+  border: 2px solid #454648;
+  width: 100%;
+  margin: 5px 0;
+  display: none;
+}
+th,
+td {
+  padding: 5px;
+  text-transform: capitalize;
+}
+.dietLable {
+  background-color: #454648;
+  padding: 5px;
+  margin-right: 12px;
+  border-radius: 5px;
+}
+.tagText {
+  margin: 16px 0;
+}
+.ingHeading {
+  margin: 15px 0;
+  font-size: 20px;
+  font-weight: 400;
+}
+.toggleButton {
+  margin: 10px;
+}
+.show {
+  display: table;
+}*/
